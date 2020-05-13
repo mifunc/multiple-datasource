@@ -12,6 +12,7 @@
 	<artifactId>multiple-datasource</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>multiple-datasource</name>
+	<description>入门小站-多数据源实践</description>
 	<packaging>jar</packaging>
 	
 	<properties>
